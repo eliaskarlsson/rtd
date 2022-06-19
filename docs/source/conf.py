@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Icarus'
+copyright = '2022, Oak Visual Art'
+author = 'Oak Visual Art'
 
 release = '0.1'
 version = '0.1.0'
