@@ -24,9 +24,3 @@ Contents
 
    usage
    api
-
-.. toctree::
-   :maxdepth: -1
-   :caption: About
-   
-   about
