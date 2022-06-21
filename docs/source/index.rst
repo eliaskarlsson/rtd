@@ -19,8 +19,14 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 3
-
+   :maxdepth: -1
    :caption: Hello world
+
    usage
    api
+
+.. toctree::
+   :maxdepth: -1
+   :caption: About
+   
+   about
