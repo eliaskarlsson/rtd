@@ -21,5 +21,6 @@ Contents
 .. toctree::
    :maxdepth: 3
 
+   :caption: Hello world
    usage
    api
