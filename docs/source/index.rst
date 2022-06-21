@@ -19,8 +19,7 @@ Contents
 --------
 
 .. toctree::
-   Title
-   =====
+   :maxdepth: 3
 
    usage
    api
