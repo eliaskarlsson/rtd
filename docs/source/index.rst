@@ -19,6 +19,8 @@ Contents
 --------
 
 .. toctree::
+   Title
+   =====
 
    usage
    api
