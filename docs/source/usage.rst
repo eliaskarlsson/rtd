@@ -6,6 +6,9 @@ Usage
 Installation
 ------------
 
+Level 3 header
+^^^^^^^^^
+
 To use Lumache, first install it using pip:
 
 .. code-block:: console
