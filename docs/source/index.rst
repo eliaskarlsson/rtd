@@ -9,12 +9,6 @@ Welcome to Icarus's documentation!
    :maxdepth: 2
    :caption: Installation
 
-   /install/
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Installation
-
    /install/index
 
 
