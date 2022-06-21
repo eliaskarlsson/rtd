@@ -19,8 +19,15 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: -1
+   :maxdepth: 2
    :caption: Hello world
 
    usage
    api
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Hello world
+
+   about/
+   about/icarus
